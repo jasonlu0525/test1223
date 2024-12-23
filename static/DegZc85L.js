@@ -1,0 +1,1 @@
+import n from"./D2ZBLUi_.js";import{_ as c,m as e,o as _,w as a,b as r,n as s}from"./DMSHaTso.js";import"./Bcf5bl8w.js";const m={};function p(u,f){const o=n,t=s;return _(),e(t,{name:"account"},{default:a(()=>[r(o)]),_:1})}const l=c(m,[["render",p]]);export{l as default};
